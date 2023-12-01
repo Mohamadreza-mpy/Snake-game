@@ -11,4 +11,4 @@ pip install pygame
 ```
 run project
 
-pygame documentation https://www.pygame.org/docs/ref/pygame.html
+pygame documentation : https://www.pygame.org/docs/ref/pygame.html
