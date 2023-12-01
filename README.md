@@ -8,4 +8,6 @@ and install pygame with :
 pip install pygame
 ```
 run project
+
+pygame documentation (https://www.pygame.org/docs/ref/pygame.html)
 Snake game for sample
